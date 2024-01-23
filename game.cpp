@@ -130,7 +130,7 @@ void playerMove(){
     }while (true);
 }
 
-//Function responsible for computer move 
+//Function responsible for computer's move 
 void computerMove(){
 
     int bestMove = -1;
